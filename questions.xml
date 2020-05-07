@@ -116,7 +116,7 @@
 
 	<item>
 		<category>AVA 1</category>
-		<question type="text" audio="" fontSize='50'><![CDATA[AVA'nın yöneticisi kimdir?]]></question>
+		<question type="text" audio="" fontSize='50'><![CDATA[AVA ağının kontrolü kimdedir?]]></question>
 		<answers answerLayout="4type1" correctAnswer="4" answerOffsetY="-30">
 			<answer width="900" fontSize='25'>Hissedarlar tarafından yönetilen bir şirket</answer>
 			<answer width="900" fontSize='25'>Emin Gün Sirer</answer>
