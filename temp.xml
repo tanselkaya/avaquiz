@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+	<item>
+		<category>IQ Test</category>
+		<question type="text" audio=""><![CDATA[How much is 150% of 501]]></question>
+		<answers answerLayout="4type1" correctAnswer="2" answerOffsetY="-30">
+			<answer width="300">55</answer>
+			<answer width="300">75</answer>
+			<answer width="300">65</answer>
+			<answer width="300">500</answer>
+		</answers>
+	</item>
+	
+	<item>
+		<category>Idiot Test</category>
+		<question type="image">assets/questions/twins.png</question>
+		<answers answerLayout="4type2" correctAnswer="2" answerOffsetY="200">
+			<answer><![CDATA[3]]></answer>
+			<answer><![CDATA[4]]></answer>
+			<answer><![CDATA[5]]></answer>
+			<answer><![CDATA[8]]></answer>
+		</answers>
+	</item>
+	
+	<item>
+		<category>Idiot Test</category>
+		<question type="text"><![CDATA[Which number is bigger?]]></question>
+		<answers answerLayout="5type1" correctAnswer="3">
+			<answer x="200" y="500" type="image">assets/questions/number1.png</answer>
+			<answer x="380" y="380" type="image">assets/questions/number2.png</answer>
+			<answer x="580" y="520" type="image">assets/questions/number3.png</answer>
+			<answer x="780" y="400" type="image">assets/questions/number4.png</answer>
+		</answers>
+	</item>
+	
+	<item>
+		<category>Idiot Test</category>
+		<question type="image">assets/questions/parking.png</question>
+		<answers answerLayout="4type2" correctAnswer="4" answerOffsetY="120">
+			<answer><![CDATA[100]]></answer>
+			<answer><![CDATA[07]]></answer>
+			<answer><![CDATA[69]]></answer>
+			<answer><![CDATA[87]]></answer>
+		</answers>
+	</item>
+	
+	<item>
+		<category>Idiot Test</category>
+		<question type="text"><![CDATA[Which screw needs a bigger
+		screwdriver?]]></question>
+		<answers answerLayout="3type3" correctAnswer="1">
+			<answer type="image">assets/questions/screwdriver1.png</answer>
+			<answer type="image">assets/questions/screwdriver2.png</answer>
+			<answer type="image">assets/questions/screwdriver3.png</answer>
+		</answers>
+	</item>
+	
+	<item>
+		<category>Idiot Test</category>
+		<question type="text"><![CDATA[Which one of the five is least
+		like the other four?]]></question>
+		<answers answerLayout="5type1" correctAnswer="4">
+			<answer width="350"><![CDATA[Dog]]></answer>
+			<answer width="350"><![CDATA[Mouse]]></answer>
+			<answer width="350"><![CDATA[Lion]]></answer>
+			<answer width="350"><![CDATA[Snake]]></answer>
+			<answer width="350"><![CDATA[Elephant]]></answer>
+		</answers>
+	</item>
+	
+	<item>
+		<category>IQ Test</category>
+		<question type="text"><![CDATA[Which number should come
+		next in the series
+		1, 3, 6, 10, 15]]></question>
+		<answers answerLayout="5type3" correctAnswer="4">
+			<answer width="250"><![CDATA[8]]></answer>
+			<answer width="250"><![CDATA[11]]></answer>
+			<answer width="250"><![CDATA[24]]></answer>
+			<answer width="250"><![CDATA[21]]></answer>
+			<answer width="250"><![CDATA[27]]></answer>
+		</answers>
+	</item>
+	
+	<item>
+		<category>IQ Test</category>
+		<question type="text"><![CDATA[10 people shake hand with each other.
+		How many handshakes will there be in total?]]></question>
+		<answers answerLayout="4type3" correctAnswer="3">
+			<answer><![CDATA[100]]></answer>
+			<answer><![CDATA[20]]></answer>
+			<answer><![CDATA[45]]></answer>
+			<answer><![CDATA[50]]></answer>
+		</answers>
+	</item>
+	
+	<item>
+		<category>IQ Test</category>
+		<question type="text"><![CDATA[A boy keep 3 Mangoes, 6 Eggs, 1 Tomato,
+		2 Apples and 5 Oranges in his bag.
+		How many fruits does he have in total?]]></question>
+		<answers answerLayout="4type3" correctAnswer="4" answerOffsetY="60">
+			<answer><![CDATA[14]]></answer>
+			<answer><![CDATA[15]]></answer>
+			<answer><![CDATA[11]]></answer>
+			<answer><![CDATA[10]]></answer>
+		</answers>
+	</item>
+	
+	<item>
+		<category>Idiot Test</category>
+		<question type="text"><![CDATA[.sdrawkcab noitseuq siht rewsnA]]></question>
+		<answers answerLayout="4type1" correctAnswer="1" answerOffsetY="-50">
+			<answer width="500"><![CDATA[K.O]]></answer>
+			<answer width="500"><![CDATA[What?]]></answer>
+			<answer width="500"><![CDATA[I don't understand]]></answer>
+			<answer width="500"><![CDATA[Pass]]></answer>
+		</answers>
+	</item>
+	
+	<item>
+		<category>IQ Test</category>
+		<question type="text"><![CDATA[You are participating in a race.
+		You overtake the second person.
+		What position are you in?]]></question>
+		<answers answerLayout="3type2" correctAnswer="2">
+			<answer><![CDATA[First]]></answer>
+			<answer><![CDATA[Second]]></answer>
+			<answer><![CDATA[Third]]></answer>
+		</answers>
+	</item>
+	
+	<item>
+		<category>IQ Test</category>
+		<question type="text"><![CDATA[Some months have 31 days,
+		some others have 30 days.
+		How many months have 28 days?]]></question>
+		<answers answerLayout="4type3" correctAnswer="3">
+			<answer><![CDATA[6]]></answer>
+			<answer><![CDATA[2]]></answer>
+			<answer><![CDATA[12]]></answer>
+			<answer><![CDATA[11]]></answer>
+		</answers>
+	</item>
+	
+	<item>
+		<category>Test (Audio)</category>
+		<question type="image" audio="assets/sounds/questions/question1.ogg">assets/questions/tshirt.png</question>
+		<answers answerLayout="4type2" correctAnswer="3" answerRandom="true">
+			<answer width="250" x="700" y="350" audio="assets/sounds/questions/question1_a1.ogg"><![CDATA[2]]></answer>
+			<answer width="250" x="700" y="450" audio="assets/sounds/questions/question1_a2.ogg"><![CDATA[3]]></answer>
+			<answer width="250" x="700" y="550" audio="assets/sounds/questions/question1_a3.ogg"><![CDATA[7]]></answer>
+			<answer width="250" x="700" y="650" audio="assets/sounds/questions/question1_a4.ogg"><![CDATA[8]]></answer>
+		</answers>
+	</item>
+	
+	<item>
+		<category>Test (Audio)</category>
+		<question type="text" audio="assets/sounds/questions/question2.ogg"><![CDATA[If 1=5, 2=10, 3=15 4=20
+		then 5=?]]></question>
+		<answers answerLayout="6type1" correctAnswer="1" randomOrder="true">
+			<answer width="250" audio="assets/sounds/questions/question2_a1.ogg"><![CDATA[1]]></answer>
+			<answer width="250" audio="assets/sounds/questions/question2_a2.ogg"><![CDATA[15]]></answer>
+			<answer width="250" audio="assets/sounds/questions/question2_a3.ogg"><![CDATA[75]]></answer>
+			<answer width="250" audio="assets/sounds/questions/question2_a4.ogg"><![CDATA[60]]></answer>
+			<answer width="250" audio="assets/sounds/questions/question2_a5.ogg"><![CDATA[30]]></answer>
+			<answer width="250" audio="assets/sounds/questions/question2_a6.ogg"><![CDATA[90]]></answer>
+		</answers>
+	</item>
+	
+	<item>
+		<category>Test (Audio)</category>
+		<question type="text" audio="assets/sounds/questions/question3.ogg"><![CDATA[Mary's father has 5 daughters, Nana,
+		Nene, Nini, and Nono.
+		Who's the fifth daughter?]]></question>
+		<answers answerLayout="8type2" correctAnswer="7" randomOrder="true">
+			<answer audio="assets/sounds/questions/question3_a1.ogg"><![CDATA[Nomo]]></answer>
+			<answer audio="assets/sounds/questions/question3_a2.ogg"><![CDATA[Nuni]]></answer>
+			<answer audio="assets/sounds/questions/question3_a3.ogg"><![CDATA[Neno]]></answer>
+			<answer audio="assets/sounds/questions/question3_a4.ogg"><![CDATA[Nino]]></answer>
+			<answer audio="assets/sounds/questions/question3_a5.ogg"><![CDATA[Nena]]></answer>
+			<answer audio="assets/sounds/questions/question3_a6.ogg"><![CDATA[Nono]]></answer>
+			<answer audio="assets/sounds/questions/question3_a7.ogg"><![CDATA[None]]></answer>
+			<answer audio="assets/sounds/questions/question3_a8.ogg"><![CDATA[Nunu]]></answer>
+		</answers>
+	</item>
+</questions>

@@ -1,0 +1,134 @@
+<div id="editWrapper">
+    <div id="floatForm">
+        Select Questions:<br/>
+        <select id="questionslist" name="questionslist">
+        </select><br/>
+        <input id="prevQuestion" name="prevQuestion" class="button" type="button" value="Prev Question">
+        <input id="nextQuestion" name="nextQuestion" class="button" type="button" value="Next Question">
+        <br/><br/>
+        <div id='topWrapper'>
+        Options:
+        <input id="removeQuestion" name="removeQuestion" type="button" value="Remove Question">
+        <input id="addQuestion" name="addQuestion" type="button" value="Add Question">
+        <br/><br/>
+        </div>
+        
+        <div id="actionWrapper">
+            <input id='editQuestion' name="editQuestion" type="button" value="Edit Question" />
+            <input id='editAnswers' name="editAnswers" type="button" value="Edit Answers" />
+            <input id='generateXML' name="generateXML" type="button" value="Generate XML" />
+            <textarea id="outputXML" name="outputXML" cols="" rows="10"></textarea>
+            <input id='saveXML' name="saveXML" type="button" value="Save XML" />
+        </div>
+        
+        <div id='questionWrapper' style="display:none;">
+        	Edit Question: 
+            <div class="formRow">
+                <label class="button">Category:</label>
+                <input id="category" name="category" class="button" type="text" />
+            </div>
+            <br/><br/>
+            
+            <div class="formRow">
+                <label class="button">Type:</label>
+                <select id="questiontype" class="half" name="questiontype">
+                    <option value="text">text</option>
+                    <option value="image">image</option>
+                </select>
+            </div><br/>
+            <div class="formRow">
+                <label class="button">Font Size:</label>
+                <input id="questionFontSize" name="questionFontSize" class="button" type="text" />
+            </div><br/><br/>
+            Text or image path:
+            <textarea id="questionText" name="questionText" cols="" rows=""></textarea>
+            <br/><br/>
+            <label class="button">Audio:</label>
+            <input id="questionAudio" name="questionAudio" type="text" />
+            <br/><br/>
+            
+            <input id='previewQuestion' name="previewQuestion" type="button" value="Preview Question" />
+            <input id='cancelQuestion' name="cancelQuestion" class="button" type="button" value="Back" />
+            <input id='doneQuestion' name="doneQuestion" class="button" type="button" value="Done" />
+        </div>
+        
+        <div id='answersWrapper' style="display:none;">
+            Edit Answers:
+            <div class="formRow" style="height:22px;">
+            	<label class="button">Answer Layout:</label>
+                <select id="answerlayoutlist" name="answerlayoutlist">
+                </select>
+            </div>
+            
+            <input id="prevLayout" name="prevLayout" class="button" type="button" value="Prev Layout">
+            <input id="nextLayout" name="nextLayout" class="button" type="button" value="Next Layout">
+            <br/><br/>
+            
+            <div class="formRow">
+                <label class="button">Correct Answer:</label>
+                <input id="correctAnswer" name="correctAnswer" class="button" type="text" />
+            </div>
+            
+            <div class="formRow">
+                <label class="button">Offset Y:</label>
+                <input id="answerOffsetY" name="answerOffsetY" class="button" type="text" />
+            </div><br/><br/><br/>
+            
+            Answer list:
+            <select id="answerslist" name="answerslist">
+            </select>
+            
+            <input id="prevAnswer" name="prevAnswer" class="button" type="button" value="Prev Answer">
+            <input id="nextAnswer" name="nextAnswer" class="button" type="button" value="Next Answer">
+            
+            <input id="removeAnswer" name="removeAnswer" type="button" value="Remove Answer">
+            <input id="addAnswer" name="addAnswer" type="button" value="Add Answer">
+            <br/><br/>
+            
+            <div class="formRow">
+                <label class="button">Type:</label>
+                <select id="answertype" class="half" name="answertype">
+                    <option value="text">text</option>
+                    <option value="image">image</option>
+                </select>
+            </div><br/>
+            
+            Text or image path:
+            <textarea id="answerText" name="answerText" cols="" rows=""></textarea>
+            <br/><br/><br/>
+            
+            <div class="formRow" style="height:25px;">
+                <label class="button">Font Size:</label>
+                <input id="answerFontSize" name="answerFontSize" class="button" type="text" />
+            </div>
+            
+            <div class="formRow" style="height:25px;">
+                <label class="button">Width:</label>
+                <input id="answerWidth" name="answerWidth" class="button" type="text" />
+            </div>
+            
+            <div class="formRow" style="height:25px;">
+                <label class="button">Height:</label>
+                <input id="answerHeight" name="answerHeight" class="button" type="text" />
+            </div>
+            
+            <div class="formRow" style="height:25px;">
+                <label class="button">X:</label>
+                <input id="answerX" name="answerX" class="button" type="text" />
+            </div>
+            
+            <div class="formRow" style="height:25px;">
+                <label class="button">Y:</label>
+                <input id="answerY" name="answerY" class="button" type="text" />
+            </div>
+            
+            <label class="button">Audio:</label>
+            <input id="answerAudio" name="answerAudio" type="text" />
+            <input id="toggleButtonGuide" name="toggleButtonGuide" type="button" value="Show/Hide Button Guide">
+            
+            <input id='previewAnswer' name="previewAnswer" type="button" value="Preview Answer" />
+            <input id='cancelAnswer' name="cancelAnswer" class="button" type="button" value="Back" />
+            <input id='doneAnswer' name="doneAnswer" class="button" type="button" value="Done" />
+        </div>
+    </div>
+</div>

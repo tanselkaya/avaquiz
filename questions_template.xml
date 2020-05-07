@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<words>
+	<item>
+		<question fontSize='50'><![CDATA[Lorem Ipsum is simply dummy text of
+		the printing and typesetting industry.
+		Lorem Ipsum has been the industry's.]]></question>
+		<answers answerLayout='8type2' correctAnswer='2'>
+			<answer>Answer1</answer>
+			<answer>Answer2</answer>
+			<answer>Answer3</answer>
+			<answer>Answer4</answer>
+			<answer>Answer5</answer>
+			<answer>Answer6</answer>
+			<answer>Answer7</answer>
+			<answer>Answer8</answer>
+		</answers>
+	</item>
+	
+	<item>
+		<question fontSize='50'><![CDATA[Lorem Ipsum is simply dummy text of
+		the printing and typesetting industry.
+		Lorem Ipsum has been the industry's.]]></question>
+		<answers answerLayout='8type1' correctAnswer='2'>
+			<answer>Ans1</answer>
+			<answer>Ans2</answer>
+			<answer>Ans3</answer>
+			<answer>Ans4</answer>
+			<answer>Ans5</answer>
+			<answer>Ans6</answer>
+			<answer>Ans7</answer>
+			<answer>Ans8</answer>
+		</answers>
+	</item>
+	
+	<item>
+		<question fontSize='50'><![CDATA[Lorem Ipsum is simply dummy text of
+		the printing and typesetting industry.
+		Lorem Ipsum has been the industry's.]]></question>
+		<answers answerLayout='7type2' correctAnswer='2'>
+			<answer>Answer1</answer>
+			<answer>Answer2</answer>
+			<answer>Answer3</answer>
+			<answer>Answer4</answer>
+			<answer>Answer5</answer>
+			<answer>Answer6</answer>
+			<answer>Answer7</answer>
+		</answers>
+	</item>
+	
+	<item>
+		<question fontSize='50'><![CDATA[Lorem Ipsum is simply dummy text of
+		the printing and typesetting industry.
+		Lorem Ipsum has been the industry's.]]></question>
+		<answers answerLayout='7type1' correctAnswer='2'>
+			<answer>Answer1</answer>
+			<answer>Answer2</answer>
+			<answer>Answer3</answer>
+			<answer>Answer4</answer>
+			<answer>Answer5</answer>
+			<answer>Answer6</answer>
+			<answer>Answer7</answer>
+		</answers>
+	</item>
+	
+	<item>
+		<question fontSize='50'><![CDATA[Lorem Ipsum is simply dummy text of
+		the printing and typesetting industry.
+		Lorem Ipsum has been the industry's.]]></question>
+		<answers answerLayout='6type2' correctAnswer='2'>
+			<answer>Answer1</answer>
+			<answer>Answer2</answer>
+			<answer>Answer3</answer>
+			<answer>Answer4</answer>
+			<answer>Answer5</answer>
+			<answer>Answer6</answer>
+		</answers>
+	</item>
+	
+	<item>
+		<question fontSize='50'><![CDATA[Lorem Ipsum is simply dummy text of
+		the printing and typesetting industry.
+		Lorem Ipsum has been the industry's.]]></question>
+		<answers answerLayout='6type1' correctAnswer='2'>
+			<answer>Answer1</answer>
+			<answer>Answer2</answer>
+			<answer>Answer3</answer>
+			<answer>Answer4</answer>
+			<answer>Answer5</answer>
+			<answer>Answer6</answer>
+		</answers>
+	</item>
+	
+	<item>
+		<question fontSize='50'><![CDATA[Lorem Ipsum is simply dummy text of
+		the printing and typesetting industry.
+		Lorem Ipsum has been the industry's.]]></question>
+		<answers answerLayout='5type3' correctAnswer='2'>
+			<answer>Answer1</answer>
+			<answer>Answer2</answer>
+			<answer>Answer3</answer>
+			<answer>Answer4</answer>
+			<answer>Answer5</answer>
+		</answers>
+	</item>
+	
+	<item>
+		<question fontSize='50'><![CDATA[Lorem Ipsum is simply dummy text of
+		the printing and typesetting industry.
+		Lorem Ipsum has been the industry's.]]></question>
+		<answers answerLayout='5type2' correctAnswer='2'>
+			<answer>Answer1</answer>
+			<answer>Answer2</answer>
+			<answer>Answer3</answer>
+			<answer>Answer4</answer>
+			<answer>Answer5</answer>
+		</answers>
+	</item>
+	
+	<item>
+		<question fontSize='50'><![CDATA[Lorem Ipsum is simply dummy text of
+		the printing and typesetting industry.
+		Lorem Ipsum has been the industry's.]]></question>
+		<answers answerLayout='5type1' correctAnswer='2'>
+			<answer>Answer1</answer>
+			<answer>Answer2</answer>
+			<answer>Answer3</answer>
+			<answer>Answer4</answer>
+			<answer>Answer5</answer>
+		</answers>
+	</item>
+	
+	<item>
+		<question fontSize='50'><![CDATA[Lorem Ipsum is simply dummy text of
+		the printing and typesetting industry.
+		Lorem Ipsum has been the industry's.]]></question>
+		<answers answerLayout='4type3' correctAnswer='2'>
+			<answer>Answer1</answer>
+			<answer>Answer2</answer>
+			<answer>Answer3</answer>
+			<answer>Answer4</answer>
+		</answers>
+	</item>
+	
+	<item>
+		<question fontSize='50'><![CDATA[Lorem Ipsum is simply dummy text of
+		the printing and typesetting industry.
+		Lorem Ipsum has been the industry's.]]></question>
+		<answers answerLayout='4type2' correctAnswer='2'>
+			<answer>Ans1</answer>
+			<answer>Ans2</answer>
+			<answer>Ans3</answer>
+			<answer>Ans4</answer>
+		</answers>
+	</item>
+	
+	<item>
+		<question fontSize='50'><![CDATA[Lorem Ipsum is simply dummy text of
+		the printing and typesetting industry.
+		Lorem Ipsum has been the industry's.]]></question>
+		<answers answerLayout='4type1' correctAnswer='2'>
+			<answer>Answer1</answer>
+			<answer>Answer2</answer>
+			<answer>Answer3</answer>
+			<answer>Answer4</answer>
+		</answers>
+	</item>
+	
+	<item>
+		<question fontSize='50'><![CDATA[Lorem Ipsum is simply dummy text of
+		the printing and typesetting industry.
+		Lorem Ipsum has been the industry's.]]></question>
+		<answers answerLayout='3type3' correctAnswer='2'>
+			<answer>Answer1</answer>
+			<answer>Answer2</answer>
+			<answer>Answer3</answer>
+		</answers>
+	</item>
+	
+	<item>
+		<question fontSize='50'><![CDATA[Lorem Ipsum is simply dummy text of
+		the printing and typesetting industry.
+		Lorem Ipsum has been the industry's.]]></question>
+		<answers answerLayout='3type2' correctAnswer='2'>
+			<answer>Answer1</answer>
+			<answer>Answer2</answer>
+			<answer>Answer3</answer>
+		</answers>
+	</item>
+	
+	<item>
+		<question fontSize='50'><![CDATA[Lorem Ipsum is simply dummy text of
+		the printing and typesetting industry.
+		Lorem Ipsum has been the industry's.]]></question>
+		<answers answerLayout='3type1' correctAnswer='2'>
+			<answer>Answer1</answer>
+			<answer>Answer2</answer>
+			<answer>Answer3</answer>
+		</answers>
+	</item>
+	
+	<item>
+		<question fontSize='50'><![CDATA[Lorem Ipsum is simply dummy text of
+		the printing and typesetting industry.
+		Lorem Ipsum has been the industry's.]]></question>
+		<answers answerLayout='2type2' correctAnswer='2'>
+			<answer>Answer1</answer>
+			<answer>Answer2</answer>
+		</answers>
+	</item>
+	
+	<item>
+		<question fontSize='50'><![CDATA[Lorem Ipsum is simply dummy text of
+		the printing and typesetting industry.
+		Lorem Ipsum has been the industry's.]]></question>
+		<answers answerLayout='2type1' correctAnswer='2'>
+			<answer>Answer1</answer>
+			<answer>Answer2</answer>
+		</answers>
+	</item>
+</words>

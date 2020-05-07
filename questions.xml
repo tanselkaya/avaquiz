@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+	<item>
+		<category>AVA 1</category>
+		<question type="text" audio="" fontSize='50'><![CDATA[Emin Gün Sirer tarafından
+		Bitcoin öncesi geliştirilen Karma projesi,
+		hangi sorunu çözmeyi hedefliyordu?]]></question>
+		<answers answerLayout="4type1" correctAnswer="3" answerOffsetY="-30">
+			<answer width="900" fontSize='35'>Bireyler arası krediler (P2P Lending)</answer>
+			<answer width="900" fontSize='35'>Hızlı ve güvenli dosya paylaşımı</answer>
+			<answer width="900" fontSize='35'>Bedavacılar (Freeriding)</answer>
+			<answer width="900" fontSize='35'>Fikri mülkiyet hakları</answer>
+		</answers>
+	</item>
+
+	<item>
+		<category>AVA 1</category>
+		<question type="text" audio="" fontSize='50'><![CDATA[Ava ismi nereden gelmektedir?]]></question>
+		<answers answerLayout="4type1" correctAnswer="3" answerOffsetY="-30">
+			<answer width="900" fontSize='35'>Sinema oyuncusu Ava Gardner</answer>
+			<answer width="900" fontSize='35'>Availability (Erişilebilirlik) kelimesinin kısaltması</answer>
+			<answer width="900" fontSize='35'>Avalanche (Çığ) kelimesinin kısaltması</answer>
+			<answer width="900" fontSize='35'>Programlama dili Java’nın kısaltması</answer>
+		</answers>
+	</item>
+
+	<item>
+		<category>AVA 1</category>
+		<question type="text" audio="" fontSize='50'><![CDATA[Aşağıdakilerden hangisi doğrudur?]]></question>
+		<answers answerLayout="4type1" correctAnswer="1" answerOffsetY="-30">
+			<answer width="950" fontSize='25'>Avalanche ağında, kesin mutabakat için tüm katılımcıların baştan belli olması şart değildir.</answer>
+			<answer width="950" fontSize='25'>Bitcoin ağı herhangi bir işlem olmadığında durur.</answer>
+			<answer width="950" fontSize='25'>Birbirini tanımayan büyük gruplar için en iyi mutabakat şekli pBFT’dir.</answer>
+			<answer width="950" fontSize='25'>Kartopu (Snowball) protokolü art niyetli katılımcılar varken çalışmaz.</answer>
+		</answers>
+	</item>
+
+	<item>
+		<category>AVA 1</category>
+		<question type="text" audio="" fontSize='50'><![CDATA[Ava developer ekibinin ismi nedir?]]></question>
+		<answers answerLayout="4type3" correctAnswer="2" answerOffsetY="-30">
+			<answer width="300" fontSize='35'>Ash Ketchum</answer>
+			<answer width="300" fontSize='35'>Team Rocket</answer>
+			<answer width="300" fontSize='35'>Uzumaki Naruto</answer>
+			<answer width="300" fontSize='35'>Monkey D. Luffy</answer>
+		</answers>
+	</item>
+
+	<item>
+		<category>AVA 1</category>
+		<question type="text" audio="" fontSize='50'><![CDATA[Avalanche protokolüne neden çığ ismi verilmiştir?]]></question>
+		<answers answerLayout="4type1" correctAnswer="2" answerOffsetY="-30">
+			<answer width="900" fontSize='25'>Avalanche çok az enerji kullandığı için dünyayı ısıtmaz</answer>
+			<answer width="900" fontSize='25'>Yamaçta duran kar, yarı kararlıdır. Durabilir de, bir harekette düşebilir de</answer>
+			<answer width="900" fontSize='25'>Avalanche öncesi döneme ilkel buzul çağı denmektedir</answer>
+			<answer width="900" fontSize='25'>Avalanche, Visa ve Mastercard’ın üstüne çığ gibi inecektir</answer>
+		</answers>
+	</item>
+
+	<item>
+		<category>AVA 1</category>
+		<question type="text" audio="" fontSize='50'><![CDATA[Aşağıdakilerden hangisi 
+		AVA projesi kurucu ekip üyelerindendir?]]></question>
+		<answers answerLayout="4type3" correctAnswer="3" answerOffsetY="-30">
+			<answer width="300" fontSize='35'>Kevin Mitnick</answer>
+			<answer width="300" fontSize='35'>Kevin Durant</answer>
+			<answer width="300" fontSize='35'>Kevin Sekniqi</answer>
+			<answer width="300" fontSize='35'>Kevin Spacey</answer>
+		</answers>
+	</item>
+
+	<item>
+		<category>AVA 1</category>
+		<question type="text" audio="" fontSize='50'><![CDATA[Kar (Snow) protokol ailesini
+		basitten karmaşığa sıralayın. ]]></question>
+		<answers answerLayout="4type1" correctAnswer="4" answerOffsetY="-30">
+			<answer width="950" fontSize='25'>Kardan Adam (Snowman), Kar Topu (Snowball), Kar Fırtınası (Snow Storm), Çığ (Avalanche)</answer>
+			<answer width="950" fontSize='25'>Buz (Ice), Kar Tanesi (Snowflake), Kar Topu (Snowball), Çığ (Avalanche)</answer>
+			<answer width="950" fontSize='25'>Eksi Derece (Sub Zero), Akrep (Scorpion), Kar Soğuğu (Frost), Çığ (Avalanche)</answer>
+			<answer width="950" fontSize='25'>Buzlaş (Slush), Kar Tanesi (Snowflake), Kar Topu (Snowball), Çığ (Avalanche)</answer>
+		</answers>
+	</item>
+
+	<item>
+		<category>AVA 1</category>
+		<question type="text" audio="" fontSize='50'><![CDATA[Bitcoin ağında nasıl mutabakata varılır?]]></question>
+		<answers answerLayout="4type1" correctAnswer="4" answerOffsetY="-30">
+			<answer width="900" fontSize='35'>Her katılımcı bir oy hakkına sahiptir</answer>
+			<answer width="900" fontSize='35'>Katılımcılar oylarını 11 üyeli bir gruba devrederler</answer>
+			<answer width="900" fontSize='35'>Her katılımcıya rastgele karar vermesi için sıra gelir</answer>
+			<answer width="900" fontSize='35'>Madenciler katılımcılar adına karar vermek için yarışırlar</answer>
+		</answers>
+	</item>
+
+	<item>
+		<category>AVA 1</category>
+		<question type="text" audio="" fontSize='50'><![CDATA[Avalanche protokolü üzerinde 
+		herhangi başka bir uygulama geliştirilebilir mi?]]></question>
+		<answers answerLayout="2type2" correctAnswer="1" answerOffsetY="-30">
+			<answer width="300" fontSize='35'>Evet</answer>
+			<answer width="300" fontSize='35'>Hayır</answer>
+		</answers>
+	</item>
+
+	<item>
+		<category>AVA 1</category>
+		<question type="text" audio="" fontSize='50'><![CDATA[Avalanche’ı geliştiren ekipte yer almayan 
+		kişi kimdir?]]></question>
+		<answers answerLayout="4type3" correctAnswer="3" answerOffsetY="-30">
+			<answer width="300" fontSize='35'>Kevin Seqniqi</answer>
+			<answer width="300" fontSize='35'>Maofan “Ted” Yin</answer>
+			<answer width="300" fontSize='35'>Domenico Dante</answer>
+			<answer width="300" fontSize='35'>Stephen Buttolph</answer>
+		</answers>
+	</item>
+
+	<item>
+		<category>AVA 1</category>
+		<question type="text" audio="" fontSize='50'><![CDATA[AVA'nın yöneticisi kimdir?]]></question>
+		<answers answerLayout="4type1" correctAnswer="4" answerOffsetY="-30">
+			<answer width="900" fontSize='25'>Hissedarlar tarafından yönetilen bir şirket</answer>
+			<answer width="900" fontSize='25'>Emin Gün Sirer</answer>
+			<answer width="900" fontSize='25'>Andreessen Horowitz</answer>
+			<answer width="900" fontSize='25'>Hiç kimse. AVA eşten eşe çalışan, üçüncü şahıs gerektirmeyen bir sistemdir.</answer>
+		</answers>
+	</item>
+
+	<item>
+		<category>AVA 1</category>
+		<question type="text" audio="" fontSize='50'><![CDATA[Avalanche projesinin 
+		resmi internet sitesi aşağıdakilerden hangisidir?]]></question>
+		<answers answerLayout="4type3" correctAnswer="4" answerOffsetY="-30">
+			<answer width="300" fontSize='35'>avalanche.io</answer>
+			<answer width="300" fontSize='35'>avalanche.com</answer>
+			<answer width="300" fontSize='35'>avalabs.io</answer>
+			<answer width="300" fontSize='35'>avalabs.org</answer>
+		</answers>
+	</item>
+
+	<item>
+		<category>AVA 1</category>
+		<question type="image">assets/questions/buttolph.png</question>
+		<answers answerLayout="4type3" correctAnswer="4" answerOffsetY="165">
+			<answer width="300" fontSize='50'>1</answer>
+			<answer width="300" fontSize='50'>2</answer>
+			<answer width="300" fontSize='50'>3</answer>
+			<answer width="300" fontSize='50'>4</answer>
+		</answers>
+	</item>
+
+	<item>
+		<category>AVA 1</category>
+		<question type="image">assets/questions/ted.png</question>
+		<answers answerLayout="4type1" correctAnswer="2" answerOffsetY="50">
+			<answer width="900" fontSize='25'>Oscar ödüllü “Pi’nin Yaşamı” filmini yönetmiştir</answer>
+			<answer width="900" fontSize='25'>Facebook’a ait Libra projesinin temeli olan HotStuff protokolünü geliştirmiştir</answer>
+			<answer width="900" fontSize='25'>Whatsapp yazılımını geliştirmiştir</answer>
+			<answer width="900" fontSize='25'>Binance kriptopara borsasını kurmuştur</answer>
+		</answers>
+	</item>
+
+	<item>
+		<category>AVA 1</category>
+		<question type="text" audio="" fontSize='50'><![CDATA[Avalanche ağı aşağılardan hangisine 
+		benzemektedir?]]></question>
+		<answers answerLayout="4type1" correctAnswer="1" answerOffsetY="-30">
+			<answer width="900" fontSize='35'>Dedikodu yapan arkadaşlar</answer>
+			<answer width="900" fontSize='35'>Emir komuta zincirine sahip bir ordu</answer>
+			<answer width="900" fontSize='35'>Seçilmiş parlamento</answer>
+			<answer width="900" fontSize='35'>Semt pazarı</answer>
+		</answers>
+	</item>
+
+	<item>
+		<category>AVA 2</category>
+		<question type="text" audio="" fontSize='50'><![CDATA[Toplam ne kadar AVA tokenı üretilecektir?]]></question>
+		<answers answerLayout="4type1" correctAnswer="1" answerOffsetY="-30">
+			<answer width="300" fontSize='35'>720 M</answer>
+			<answer width="300" fontSize='35'>100 M</answer>
+			<answer width="300" fontSize='35'>21 M</answer>
+			<answer width="300" fontSize='35'>360 M</answer>
+		</answers>
+	</item>
+
+	<item>
+		<category>AVA 2</category>
+		<question type="text" audio="" fontSize='50'><![CDATA[Ava Labs'da takribi kaç kişi çalışmaktadır?]]></question>
+		<answers answerLayout="4type3" correctAnswer="4" answerOffsetY="-30">
+			<answer width="300" fontSize='35'>15</answer>
+			<answer width="300" fontSize='35'>8</answer>
+			<answer width="300" fontSize='35'>71</answer>
+			<answer width="300" fontSize='35'>44</answer>
+		</answers>
+	</item>
+
+	<item>
+		<category>AVA 2</category>
+		<question type="text" audio="" fontSize='50'><![CDATA[Avalabs'ın AVA üzerinde geliştirilecek olan 
+		projelere destek verdiği biriminin adı nedir?]]></question>
+		<answers answerLayout="4type1" correctAnswer="3" answerOffsetY="-30">
+			<answer width="900" fontSize='35'>AvaHub</answer>
+			<answer width="900" fontSize='35'>Ava-Tar</answer>
+			<answer width="900" fontSize='35'>Ava-X</answer>
+			<answer width="900" fontSize='35'>Avademy</answer>
+		</answers>
+	</item>
+
+		<item>
+		<category>AVA 2</category>
+		<question type="text" audio="" fontSize='50'><![CDATA[AVA deneme ağının adı nedir?]]></question>
+		<answers answerLayout="4type1" correctAnswer="4" answerOffsetY="-30">
+			<answer width="900" fontSize='35'>Snowfall</answer>
+			<answer width="900" fontSize='35'>Gecko</answer>
+			<answer width="900" fontSize='35'>Iceland</answer>
+			<answer width="900" fontSize='35'>Cascade</answer>
+		</answers>
+	</item>
+
+	<item>
+		<category>AVA 2</category>
+		<question type="text" audio="" fontSize='50'><![CDATA[Aethereum alt ağında, Ethereum 1.0 ağında hesabı 
+		bulunan kullanıcıların hesapları ve bakiyeleri 
+		aynen yer alacaktır.]]></question>
+		<answers answerLayout="2type2" correctAnswer="1" answerOffsetY="-30">
+			<answer width="300" fontSize='35'>Doğru</answer>
+			<answer width="300" fontSize='35'>Yanlış</answer>
+		</answers>
+	</item>
+
+	<item>
+		<category>AVA 2</category>
+		<question type="text" audio="" fontSize='50'><![CDATA[Avalabs üyelerinin çoğunun derecelerini 
+		aldığı Amerikan üniversitesinin adı nedir?]]></question>
+		<answers answerLayout="4type1" correctAnswer="2" answerOffsetY="-30">
+			<answer width="900" fontSize='35'>Stanford</answer>
+			<answer width="900" fontSize='35'>Cornell</answer>
+			<answer width="900" fontSize='35'>Carnegie Melon</answer>
+			<answer width="900" fontSize='35'>MIT</answer>
+		</answers>
+	</item>
+
+	<item>
+		<category>AVA 2</category>
+		<question type="text" audio="" fontSize='50'><![CDATA[AVA üzerinde akıllı kontrat geliştirmek için 
+		hangi programlama dili kullanılamaz?]]></question>
+		<answers answerLayout="4type3" correctAnswer="4" answerOffsetY="-30">
+			<answer width="300" fontSize='35'>Solidity</answer>
+			<answer width="300" fontSize='35'>Go</answer>
+			<answer width="300" fontSize='35'>Rust</answer>
+			<answer width="300" fontSize='35'>React</answer>
+		</answers>
+	</item>
+
+	<item>
+		<category>AVA 2</category>
+		<question type="text" audio="" fontSize='50'><![CDATA[AVA'nın kullanılacağı öncelikli alanlardan
+		birisi hangisidir?]]></question>
+		<answers answerLayout="4type1" correctAnswer="1" answerOffsetY="-30">
+			<answer width="900" fontSize='35'>Merkeziyetsiz finans (DeFi)</answer>
+			<answer width="900" fontSize='35'>Kart oyunları</answer>
+			<answer width="900" fontSize='35'>Bahis</answer>
+			<answer width="900" fontSize='35'>Tedarik zinciri</answer>
+		</answers>
+	</item>
+
+	<item>
+		<category>AVA 2</category>
+		<question type="text" audio="" fontSize='50'><![CDATA[Hangisi AVA'ya ait bir özellik değildir?]]></question>
+		<answers answerLayout="4type1" correctAnswer="2" answerOffsetY="-30">
+			<answer width="900" fontSize='35'>Hızlı sonuçlanma</answer>
+			<answer width="900" fontSize='35'>Yüksek enerji ihtiyacı</answer>
+			<answer width="900" fontSize='35'>İş yokken sükünetli kalma</answer>
+			<answer width="900" fontSize='35'>Saniyede yüksek işlem çıktısı</answer>
+		</answers>
+	</item>
+
+	<item>
+		<category>AVA 2</category>
+		<question type="text" audio="" fontSize='50'><![CDATA[Nakamoto consensus (mutabakat) protokolünde 
+		lider değişimi nasıl yapılır?]]></question>
+		<answers answerLayout="4type1" correctAnswer="3" answerOffsetY="-30">
+			<answer width="900" fontSize='35'>Sırası gelen bir sonraki onaylayıcı lider olur</answer>
+			<answer width="900" fontSize='35'>Onaylayıcılar arasında %51 oy alan lider olur</answer>
+			<answer width="900" fontSize='35'>Her blokta iş kanıtı üreten bir blokluk lider olur</answer>
+			<answer width="900" fontSize='35'>En fazla hisseye sahip olan bir sonraki onaylayıcı lider olur</answer>
+		</answers>
+	</item>
+
+	<item>
+		<category>AVA 2</category>
+		<question type="text" audio="" fontSize='50'><![CDATA[30 yıl önce Emin Gün Sirer'in yazıp "Eğitimde 
+		Bilgisayar" dergisinde yayınladığı Borsa Oyunu'nda 
+		hangisi yer almaz?]]></question>
+		<answers answerLayout="4type1" correctAnswer="4" answerOffsetY="-30">
+			<answer width="900" fontSize='35'>Sıra Selviler</answer>
+			<answer width="900" fontSize='35'>İstiklal</answer>
+			<answer width="900" fontSize='35'>Kodes</answer>
+			<answer width="900" fontSize='35'>Arnavutköy</answer>
+		</answers>
+	</item>
+
+		<item>
+		<category>AVA 2</category>
+		<question type="text" audio="" fontSize='50'><![CDATA[AVA'da POS ne amaçla kullanılmaktadır?]]></question>
+		<answers answerLayout="4type1" correctAnswer="2" answerOffsetY="-30">
+			<answer width="900" fontSize='35'>Consensus (mutabakat)</answer>
+			<answer width="900" fontSize='35'>Sybil kontrolü</answer>
+			<answer width="900" fontSize='35'>Çift ödemenin engellenmesi</answer>
+			<answer width="900" fontSize='35'>TPS artırılması</answer>
+		</answers>
+	</item>
+
+	<item>
+		<category>AVA 2</category>
+		<question type="text" audio="" fontSize='50'><![CDATA[Hangisi AVA gibi blokzincirler arası iletişim 
+		problemine çözüm arayan bir proje değildir? ]]></question>
+		<answers answerLayout="4type3" correctAnswer="3" answerOffsetY="-30">
+			<answer width="300" fontSize='35'>Polkadot</answer>
+			<answer width="300" fontSize='35'>Cosmos</answer>
+			<answer width="300" fontSize='35'>IOTA</answer>
+			<answer width="300" fontSize='35'>BOS IBC</answer>
+		</answers>
+	</item>
+
+	<item>
+		<category>AVA 2</category>
+		<question type="image">assets/questions/uv.png</question>
+		<answers answerLayout="4type3" correctAnswer="2" answerOffsetY="50">
+			<answer width="300" fontSize='25'>Kedi maması kabı</answer>
+			<answer width="300" fontSize='25'>Maske dezenfekte edici</answer>
+			<answer width="300" fontSize='25'>Havalandırma borusu</answer>
+			<answer width="300" fontSize='25'>Akı kapasitörü</answer>
+		</answers>
+	</item>
+
+	<item>
+		<category>AVA 2</category>
+		<question type="image">assets/questions/kevin.jpg</question>
+		<answers answerLayout="4type3" correctAnswer="2" answerOffsetY="50">
+			<answer width="300" fontSize='25'>Ted Yin</answer>
+			<answer width="300" fontSize='25'>Kevin Sekniqi</answer>
+			<answer width="300" fontSize='25'>Radoslav Mincev</answer>
+			<answer width="300" fontSize='25'>Aytunç Yıldızlı</answer>
+		</answers>
+	</item>
+</questions>
