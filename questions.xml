@@ -116,12 +116,12 @@
 
 	<item>
 		<category>AVA 1</category>
-		<question type="text" audio="" fontSize='50'><![CDATA[AVA'nın yöneticisi kimdir?]]></question>
+		<question type="text" audio="" fontSize='50'><![CDATA[Avalanche'nın yöneticisi kimdir?]]></question>
 		<answers answerLayout="4type1" correctAnswer="4" answerOffsetY="-30">
 			<answer width="900" fontSize='25'>Hissedarlar tarafından yönetilen bir şirket</answer>
 			<answer width="900" fontSize='25'>Emin Gün Sirer</answer>
 			<answer width="900" fontSize='25'>Andreessen Horowitz</answer>
-			<answer width="900" fontSize='25'>Hiç kimse. AVA eşten eşe çalışan, üçüncü şahıs gerektirmeyen bir sistemdir.</answer>
+			<answer width="900" fontSize='25'>Hiç kimse. Avalanche eşten eşe çalışan, üçüncü şahıs gerektirmeyen bir sistemdir.</answer>
 		</answers>
 	</item>
 
@@ -153,7 +153,7 @@
 		<question type="image">assets/questions/ted.png</question>
 		<answers answerLayout="4type1" correctAnswer="2" answerOffsetY="50">
 			<answer width="900" fontSize='25'>Oscar ödüllü “Pi’nin Yaşamı” filmini yönetmiştir</answer>
-			<answer width="900" fontSize='25'>Facebook’a ait Libra projesinin temeli olan HotStuff protokolünü geliştirmiştir</answer>
+			<answer width="900" fontSize='25'>Facebook’a ait Libra(DIEM) projesinin temeli olan HotStuff protokolünü geliştirmiştir</answer>
 			<answer width="900" fontSize='25'>Whatsapp yazılımını geliştirmiştir</answer>
 			<answer width="900" fontSize='25'>Binance kriptopara borsasını kurmuştur</answer>
 		</answers>
@@ -173,7 +173,7 @@
 
 	<item>
 		<category>AVA 2</category>
-		<question type="text" audio="" fontSize='50'><![CDATA[Toplam ne kadar AVA tokenı üretilecektir?]]></question>
+		<question type="text" audio="" fontSize='50'><![CDATA[Toplam ne kadar AVAX tokenı üretilecektir?]]></question>
 		<answers answerLayout="4type1" correctAnswer="1" answerOffsetY="-30">
 			<answer width="300" fontSize='35'>720 M</answer>
 			<answer width="300" fontSize='35'>100 M</answer>
@@ -195,7 +195,7 @@
 
 	<item>
 		<category>AVA 2</category>
-		<question type="text" audio="" fontSize='50'><![CDATA[Avalabs'ın AVA üzerinde geliştirilecek olan 
+		<question type="text" audio="" fontSize='50'><![CDATA[Avalabs'ın Avalanche üzerinde geliştirilecek olan 
 		projelere destek verdiği biriminin adı nedir?]]></question>
 		<answers answerLayout="4type1" correctAnswer="3" answerOffsetY="-30">
 			<answer width="900" fontSize='35'>AvaHub</answer>
@@ -207,7 +207,7 @@
 
 		<item>
 		<category>AVA 2</category>
-		<question type="text" audio="" fontSize='50'><![CDATA[AVA deneme ağının adı nedir?]]></question>
+		<question type="text" audio="" fontSize='50'><![CDATA[Avalanche deneme ağının adı nedir?]]></question>
 		<answers answerLayout="4type1" correctAnswer="4" answerOffsetY="-30">
 			<answer width="900" fontSize='35'>Snowfall</answer>
 			<answer width="900" fontSize='35'>Gecko</answer>
@@ -241,7 +241,7 @@
 
 	<item>
 		<category>AVA 2</category>
-		<question type="text" audio="" fontSize='50'><![CDATA[AVA üzerinde akıllı kontrat geliştirmek için 
+		<question type="text" audio="" fontSize='50'><![CDATA[Avalanche üzerinde akıllı kontrat geliştirmek için 
 		hangi programlama dili kullanılamaz?]]></question>
 		<answers answerLayout="4type3" correctAnswer="4" answerOffsetY="-30">
 			<answer width="300" fontSize='35'>Solidity</answer>
@@ -252,8 +252,8 @@
 	</item>
 
 	<item>
-		<category>AVA 2</category>
-		<question type="text" audio="" fontSize='50'><![CDATA[AVA'nın kullanılacağı öncelikli alanlardan
+		<category>AVAX 2</category>
+		<question type="text" audio="" fontSize='50'><![CDATA[Avalanche'ın kullanılacağı öncelikli alanlardan
 		birisi hangisidir?]]></question>
 		<answers answerLayout="4type1" correctAnswer="1" answerOffsetY="-30">
 			<answer width="900" fontSize='35'>Merkeziyetsiz finans (DeFi)</answer>
@@ -265,7 +265,7 @@
 
 	<item>
 		<category>AVA 2</category>
-		<question type="text" audio="" fontSize='50'><![CDATA[Hangisi AVA'ya ait bir özellik değildir?]]></question>
+		<question type="text" audio="" fontSize='50'><![CDATA[Hangisi Avalanche'a ait bir özellik değildir?]]></question>
 		<answers answerLayout="4type1" correctAnswer="2" answerOffsetY="-30">
 			<answer width="900" fontSize='35'>Hızlı sonuçlanma</answer>
 			<answer width="900" fontSize='35'>Yüksek enerji ihtiyacı</answer>
@@ -301,7 +301,7 @@
 
 		<item>
 		<category>AVA 2</category>
-		<question type="text" audio="" fontSize='50'><![CDATA[AVA'da POS ne amaçla kullanılmaktadır?]]></question>
+		<question type="text" audio="" fontSize='50'><![CDATA[Avalanche'da POS ne amaçla kullanılmaktadır?]]></question>
 		<answers answerLayout="4type1" correctAnswer="2" answerOffsetY="-30">
 			<answer width="900" fontSize='35'>Consensus (mutabakat)</answer>
 			<answer width="900" fontSize='35'>Sybil kontrolü</answer>
@@ -312,7 +312,7 @@
 
 	<item>
 		<category>AVA 2</category>
-		<question type="text" audio="" fontSize='50'><![CDATA[Hangisi AVA gibi blokzincirler arası iletişim 
+		<question type="text" audio="" fontSize='50'><![CDATA[Hangisi Avalanche gibi blokzincirler arası iletişim 
 		problemine çözüm arayan bir proje değildir? ]]></question>
 		<answers answerLayout="4type3" correctAnswer="3" answerOffsetY="-30">
 			<answer width="300" fontSize='35'>Polkadot</answer>
