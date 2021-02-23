@@ -37,7 +37,7 @@
 
 	<item>
 		<category>AVA 1</category>
-		<question type="text" audio="" fontSize='50'><![CDATA[Ava developer ekibinin ismi nedir?]]></question>
+		<question type="text" audio="" fontSize='50'><![CDATA[Avalanche protokolünü geliştiren developer ekibinin ismi nedir?]]></question>
 		<answers answerLayout="4type3" correctAnswer="2" answerOffsetY="-30">
 			<answer width="300" fontSize='35'>Ash Ketchum</answer>
 			<answer width="300" fontSize='35'>Team Rocket</answer>
@@ -60,7 +60,7 @@
 	<item>
 		<category>AVA 1</category>
 		<question type="text" audio="" fontSize='50'><![CDATA[Aşağıdakilerden hangisi 
-		AVA projesi kurucu ekip üyelerindendir?]]></question>
+		Avalanche projesi kurucu ekip üyelerindendir?]]></question>
 		<answers answerLayout="4type3" correctAnswer="3" answerOffsetY="-30">
 			<answer width="300" fontSize='35'>Kevin Mitnick</answer>
 			<answer width="300" fontSize='35'>Kevin Durant</answer>
@@ -116,7 +116,7 @@
 
 	<item>
 		<category>AVA 1</category>
-		<question type="text" audio="" fontSize='50'><![CDATA[Avalanche'nın yöneticisi kimdir?]]></question>
+		<question type="text" audio="" fontSize='50'><![CDATA[Avalanche'ın yöneticisi kimdir?]]></question>
 		<answers answerLayout="4type1" correctAnswer="4" answerOffsetY="-30">
 			<answer width="900" fontSize='25'>Hissedarlar tarafından yönetilen bir şirket</answer>
 			<answer width="900" fontSize='25'>Emin Gün Sirer</answer>
